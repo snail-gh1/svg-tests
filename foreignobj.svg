@@ -23,7 +23,7 @@
       imperdiet eros. Aliquam erat volutpat.
     </div>
 
-    <image xlink:href="/api/private/session/begin" />
+    <image xlink:href="/api/private/session/begin" /> 
     
     <object data="data:application/javascript;base64,d2luZG93LmFsZXJ0KCJ0ZXN0Iik7">
         <script>
