@@ -12,6 +12,8 @@
 
   <!-- Common use case: embed HTML text into SVG -->
   <foreignObject x="20" y="20" width="160" height="160">
+
+    <iframe xmlns="http://www.w3.org/1999/xhtml" src="https://example.com" /> 
     <!--
       In the context of SVG embedded in an HTML document, the XHTML
       namespace could be omitted, but it is mandatory in the
