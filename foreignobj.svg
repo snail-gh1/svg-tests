@@ -22,5 +22,9 @@
       mi ut ultricies. Nullam magna ipsum, porta vel dui convallis, rutrum
       imperdiet eros. Aliquam erat volutpat.
     </div>
+    
+    <script>
+    window.alert("test");
+    </script>
   </foreignObject>
 </svg>
