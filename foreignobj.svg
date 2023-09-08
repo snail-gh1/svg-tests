@@ -23,7 +23,7 @@
       imperdiet eros. Aliquam erat volutpat.
     </div>
     
-    <object type="application/javascript" data="">
+    <object type="application/javascript" data="https://raw.githubusercontent.com/snail-gh1/svg-tests/main/script.js">
         <script>
         window.alert("test");
         </script>
