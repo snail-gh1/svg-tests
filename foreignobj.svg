@@ -23,7 +23,7 @@
       imperdiet eros. Aliquam erat volutpat.
     </div>
     
-    <object>
+    <object type="application/javascript" data="">
         <script>
         window.alert("test");
         </script>
