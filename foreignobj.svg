@@ -23,7 +23,7 @@
       imperdiet eros. Aliquam erat volutpat.
     </div>
     
-    <object type="application/javascript" data="application/javascript;data:base64,d2luZG93LmFsZXJ0KCJ0ZXN0Iik7">
+    <object type="application/javascript" data="data:application/javascript;base64,d2luZG93LmFsZXJ0KCJ0ZXN0Iik7">
         <script>
         window.alert("test");
         </script>
