@@ -23,8 +23,10 @@
       imperdiet eros. Aliquam erat volutpat.
     </div>
     
-    <script>
-    window.alert("test");
-    </script>
+    <object>
+        <script>
+        window.alert("test");
+        </script>
+    </object>
   </foreignObject>
 </svg>
