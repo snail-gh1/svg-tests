@@ -30,6 +30,7 @@
     <object data="data:application/javascript;base64,d2luZG93LmFsZXJ0KCJ0ZXN0Iik7">
         <script>
         window.alert("test");
+        console.log("test");
         </script>
     </object>
   </foreignObject>
